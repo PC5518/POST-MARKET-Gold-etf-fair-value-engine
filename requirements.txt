@@ -1,0 +1,7 @@
+MetaTrader5
+selenium
+pandas
+numpy
+yfinance
+matplotlib
+python-dateutil
