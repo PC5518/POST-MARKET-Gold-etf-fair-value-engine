@@ -7,8 +7,8 @@
 
 ## 🎥 Demo & Tutorial
 
-- **Project Demo (YouTube)**: _coming soon_  
-  👉 
+- **Project Demo (YouTube)**:[ _DEMO: ](https://www.youtube.com/watch?v=Pi3xI19eqHs)
+
 
 `https://www.youtube.com/watch?v=Pi3xI19eqHs`
 
@@ -73,7 +73,11 @@ All of this is displayed in the **ANSCom Terminal** interface.
 This project was first designed completely on a **system-design board** and then turned into code.  
 Each diagram has a direct mapping to the Python modules and functions.
 
-> Put your **three hand-drawn design screenshots** in `docs/images/` and link them as below.
+<img width="1783" height="1048" alt="image" src="https://github.com/user-attachments/assets/47fed271-e80b-4cd6-a03d-d018f0b81e18" />
+<img width="1425" height="688" alt="image" src="https://github.com/user-attachments/assets/44eb70bc-c0cf-4dad-ad49-97eaabd2e489" />
+<img width="1557" height="845" alt="image" src="https://github.com/user-attachments/assets/93938a91-de08-4a7d-8847-1c2ea020d8bb" />
+
+FINAL OUTPUT :<img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/0e4e96bc-4792-4895-9f3d-5fac7253af48" />
 
 ---
 
