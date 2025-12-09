@@ -4,6 +4,9 @@
 > A live terminal that approximates the **ICICI Prudential Gold ETF (GOLDIETF)** price **after NSE market hours**, using XAUUSD and USDINR in real-time.
 
 ---
+## System Design:
+![WhatsApp Image 2025-12-09 at 19 12 38_2dbe13b1](https://github.com/user-attachments/assets/3d89047d-4ec2-4683-842a-bfa0ba3d0175)
+
 
 ## 🎥 Demo & Tutorial
 
