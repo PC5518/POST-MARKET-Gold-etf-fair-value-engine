@@ -71,7 +71,7 @@ All of this is displayed in the **ANSCom Terminal** interface.
 
 ---
 
-## 🏛 System Design – (ROUGH SYSTEM) Whiteboard → Code
+## 🏛 System Design – (ROUGH SYSTEM) Whiteboard → Code    [Basically, my logic is presented below; the way i thought initially to make the program]
 
 This project was first designed completely on a **system-design board** and then turned into code.  
 Each diagram has a direct mapping to the Python modules and functions.
