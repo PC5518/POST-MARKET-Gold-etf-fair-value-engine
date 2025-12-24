@@ -11,7 +11,7 @@ import warnings
 import re   # IMPORTED IT TO IGNORE NATIONAL STOCK EXCHANGE'S WEBSITE "As of DATE" refining
 import sys
 
-# Suppress YFinance/Pandas FutureWarnings
+# for Suppressing YFinance/Pandas FutureWarnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # External Libraries
@@ -522,4 +522,5 @@ def run_terminal(gold_symbol="XAUUSD"):
 
 if __name__ == "__main__":
     run_terminal("XAUUSD")
+
 
