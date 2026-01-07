@@ -5,7 +5,11 @@
 
 ---
 ## System Design:
+Overview (powered by Mermaid charts)
+<img width="1151" height="316" alt="image" src="https://github.com/user-attachments/assets/5f46b70a-c371-4e48-b1f5-4486b6fdc55d" />
 ![WhatsApp Image 2025-12-09 at 19 12 38_2dbe13b1](https://github.com/user-attachments/assets/3d89047d-4ec2-4683-842a-bfa0ba3d0175)
+
+
 
 
 ## 🎥 Demo & Tutorial
